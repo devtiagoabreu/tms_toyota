@@ -1,0 +1,800 @@
+[2024/08/21 11:02:44 127.0.0.1] End Data Convert
+[2024/08/27 10:12:45 127.0.0.1] Get Network TMS Data Start
+[2024/08/27 10:12:53 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=0 ERR=2)
+[2024/08/27 10:13:16 127.0.0.1] End Data Convert
+[2024/08/29 16:37:25 127.0.0.1] Get Network TMS Data Start
+[2024/08/29 16:37:32 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=0 ERR=2)
+[2024/08/29 16:38:02 127.0.0.1] End Data Convert
+[2024/09/01 13:27:11 127.0.0.1] Get Network TMS Data Start
+[2024/09/01 13:27:16 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/01 13:27:42 127.0.0.1] End Data Convert
+[2024/09/09 12:56:57 172.17.1.105] Get Network TMS Data Start
+[2024/09/09 12:57:08 172.17.1.105] Get Network TMS Data (OK=19 WARN=0 POFF=4 ERR=1)
+[2024/09/09 12:58:37 172.17.1.105] End Data Convert
+[2024/09/09 13:13:34 172.17.1.105] Get Network TMS Data Start
+[2024/09/09 13:13:42 172.17.1.105] Get Network TMS Data (OK=20 WARN=0 POFF=3 ERR=1)
+[2024/09/09 13:13:53 172.17.1.105] End Data Convert
+[2024/09/09 13:28:07 172.17.1.105] Get Network TMS Data Start
+[2024/09/09 13:28:16 172.17.1.105] Get Network TMS Data (OK=20 WARN=0 POFF=3 ERR=1)
+[2024/09/09 13:28:29 172.17.1.105] End Data Convert
+[2024/09/09 13:33:55 127.0.0.1] Get Network TMS Data Start
+[2024/09/09 13:34:03 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=3 ERR=1)
+[2024/09/09 13:34:19 127.0.0.1] End Data Convert
+[2024/09/10 12:59:00 127.0.0.1] Get Network TMS Data Start
+[2024/09/10 12:59:08 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/10 12:59:26 127.0.0.1] End Data Convert
+[2024/09/10 13:57:21 127.0.0.1] Get Network TMS Data Start
+[2024/09/10 13:57:29 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/10 13:57:33 127.0.0.1] End Data Convert
+[2024/09/11 13:28:10 127.0.0.1] Get Network TMS Data Start
+[2024/09/11 13:28:20 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/11 13:28:39 127.0.0.1] End Data Convert
+[2024/09/12 11:31:42 127.0.0.1] Get Network TMS Data Start
+[2024/09/12 11:31:52 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/12 11:32:16 127.0.0.1] End Data Convert
+[2024/09/13 10:37:11 127.0.0.1] Get Network TMS Data Start
+[2024/09/13 10:37:21 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/13 10:37:40 127.0.0.1] End Data Convert
+[2024/09/16 07:56:14 127.0.0.1] Get Network TMS Data Start
+[2024/09/16 07:56:21 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/16 07:56:42 127.0.0.1] End Data Convert
+[2024/09/16 08:23:54 127.0.0.1] Get Network TMS Data Start
+[2024/09/16 08:24:01 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/16 08:24:06 127.0.0.1] End Data Convert
+[2024/09/17 08:02:32 127.0.0.1] Get Network TMS Data Start
+[2024/09/17 08:02:41 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/17 08:03:10 127.0.0.1] End Data Convert
+[2024/09/18 07:51:50 127.0.0.1] Get Network TMS Data Start
+[2024/09/18 07:52:01 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/18 07:52:22 127.0.0.1] End Data Convert
+[2024/09/19 07:53:46 127.0.0.1] Get Network TMS Data Start
+[2024/09/19 07:53:56 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/19 07:54:19 127.0.0.1] End Data Convert
+[2024/09/20 09:50:49 127.0.0.1] Get Network TMS Data Start
+[2024/09/20 09:50:59 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=1 ERR=1)
+[2024/09/20 09:51:22 127.0.0.1] End Data Convert
+[2024/09/23 09:58:59 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 09:59:45 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=2 ERR=2)
+[2024/09/23 10:00:11 127.0.0.1] End Data Convert
+[2024/09/23 10:46:19 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 10:46:36 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=2 ERR=2)
+[2024/09/23 10:46:40 127.0.0.1] End Data Convert
+[2024/09/23 11:38:38 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 11:38:49 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=2 ERR=2)
+[2024/09/23 11:38:54 127.0.0.1] End Data Convert
+[2024/09/23 12:29:40 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:29:51 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=1 ERR=2)
+[2024/09/23 12:29:55 127.0.0.1] End Data Convert
+[2024/09/23 12:37:49 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:37:55 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/23 12:37:59 127.0.0.1] End Data Convert
+[2024/09/23 12:38:12 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:38:20 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/23 12:38:23 127.0.0.1] End Data Convert
+[2024/09/23 12:39:42 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:40:26 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=1 ERR=2)
+[2024/09/23 12:40:29 127.0.0.1] End Data Convert
+[2024/09/23 12:48:32 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:48:45 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=1 ERR=2)
+[2024/09/23 12:48:49 127.0.0.1] End Data Convert
+[2024/09/23 12:49:36 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 12:49:55 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=1 ERR=2)
+[2024/09/23 12:49:59 127.0.0.1] End Data Convert
+[2024/09/23 14:56:57 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 14:57:05 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/23 14:57:12 127.0.0.1] End Data Convert
+[2024/09/23 16:55:11 127.0.0.1] Get Network TMS Data Start
+[2024/09/23 16:55:19 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=3 ERR=1)
+[2024/09/23 16:55:27 127.0.0.1] End Data Convert
+[2024/09/24 08:13:14 127.0.0.1] Get Network TMS Data Start
+[2024/09/24 08:13:24 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=2 ERR=1)
+[2024/09/24 08:13:55 127.0.0.1] End Data Convert
+[2024/09/24 14:01:23 127.0.0.1] Get Network TMS Data Start
+[2024/09/24 14:01:31 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/09/24 14:01:41 127.0.0.1] End Data Convert
+[2024/09/25 14:31:37 127.0.0.1] Get Network TMS Data Start
+[2024/09/25 14:31:48 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/09/25 14:32:19 127.0.0.1] End Data Convert
+[2024/09/26 07:51:31 127.0.0.1] Get Network TMS Data Start
+[2024/09/26 07:51:42 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/09/26 07:52:13 127.0.0.1] End Data Convert
+[2024/09/30 11:22:33 127.0.0.1] Get Network TMS Data Start
+[2024/09/30 11:22:40 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/09/30 11:23:33 127.0.0.1] End Data Convert
+[2024/09/30 12:52:20 127.0.0.1] Get Network TMS Data Start
+[2024/09/30 12:52:27 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/09/30 12:52:54 127.0.0.1] End Data Convert
+[2024/10/01 15:53:01 127.0.0.1] Get Network TMS Data Start
+[2024/10/01 15:53:13 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/01 15:55:05 127.0.0.1] End Data Convert
+[2024/10/02 09:33:10 127.0.0.1] Get Network TMS Data Start
+[2024/10/02 09:33:26 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/02 09:36:33 127.0.0.1] End Data Convert
+[2024/10/04 11:36:53 127.0.0.1] Get Network TMS Data Start
+[2024/10/04 11:37:04 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/04 11:37:25 127.0.0.1] End Data Convert
+[2024/10/07 14:17:16 127.0.0.1] Get Network TMS Data Start
+[2024/10/07 14:17:23 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/07 14:17:44 127.0.0.1] End Data Convert
+[2024/10/08 11:09:26 127.0.0.1] Get Network TMS Data Start
+[2024/10/08 11:09:35 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/08 11:10:02 127.0.0.1] End Data Convert
+[2024/10/10 10:32:47 127.0.0.1] Get Network TMS Data Start
+[2024/10/10 10:33:01 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/10 10:34:51 127.0.0.1] End Data Convert
+[2024/10/11 08:30:52 127.0.0.1] Get Network TMS Data Start
+[2024/10/11 08:31:01 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/11 08:31:21 127.0.0.1] End Data Convert
+[2024/10/11 14:06:00 127.0.0.1] Get Network TMS Data Start
+[2024/10/11 14:06:09 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/11 14:06:19 127.0.0.1] End Data Convert
+[2024/10/14 07:48:24 127.0.0.1] Get Network TMS Data Start
+[2024/10/14 07:48:32 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/14 07:48:55 127.0.0.1] End Data Convert
+[2024/10/15 10:27:02 127.0.0.1] Get Network TMS Data Start
+[2024/10/15 10:27:09 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=0 ERR=2)
+[2024/10/15 10:27:28 127.0.0.1] End Data Convert
+[2024/10/17 07:49:04 127.0.0.1] Get Network TMS Data Start
+[2024/10/17 07:49:13 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/17 07:49:42 127.0.0.1] End Data Convert
+[2024/10/18 14:56:14 127.0.0.1] Get Network TMS Data Start
+[2024/10/18 14:56:26 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/18 14:56:50 127.0.0.1] End Data Convert
+[2024/10/22 08:27:20 127.0.0.1] Get Network TMS Data Start
+[2024/10/22 08:27:30 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/22 08:27:54 127.0.0.1] End Data Convert
+[2024/10/23 11:08:25 127.0.0.1] Get Network TMS Data Start
+[2024/10/23 11:08:38 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/23 11:09:09 127.0.0.1] End Data Convert
+[2024/10/24 08:44:23 127.0.0.1] Get Network TMS Data Start
+[2024/10/24 08:44:33 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/24 08:45:01 127.0.0.1] End Data Convert
+[2024/10/25 11:25:19 127.0.0.1] Get Network TMS Data Start
+[2024/10/25 11:25:30 127.0.0.1] Get Network TMS Data (OK=17 WARN=0 POFF=7 ERR=0)
+[2024/10/25 11:26:05 127.0.0.1] End Data Convert
+[2024/10/25 12:28:43 127.0.0.1] Get Network TMS Data Start
+[2024/10/25 12:28:54 127.0.0.1] Get Network TMS Data (OK=17 WARN=0 POFF=7 ERR=0)
+[2024/10/25 12:29:06 127.0.0.1] End Data Convert
+[2024/10/25 13:56:58 127.0.0.1] Get Network TMS Data Start
+[2024/10/25 13:57:05 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=4 ERR=0)
+[2024/10/25 13:57:47 127.0.0.1] End Data Convert
+[2024/10/28 14:45:56 127.0.0.1] Get Network TMS Data Start
+[2024/10/28 14:46:02 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/28 14:46:53 127.0.0.1] End Data Convert
+[2024/10/29 08:15:03 127.0.0.1] Get Network TMS Data Start
+[2024/10/29 08:15:12 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=4 ERR=0)
+[2024/10/29 08:15:43 127.0.0.1] End Data Convert
+[2024/10/29 11:29:18 127.0.0.1] Get Network TMS Data Start
+[2024/10/29 11:29:26 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/29 11:29:49 127.0.0.1] End Data Convert
+[2024/10/30 09:13:07 127.0.0.1] Get Network TMS Data Start
+[2024/10/30 09:13:22 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=3 ERR=1)
+[2024/10/30 09:14:03 127.0.0.1] End Data Convert
+[2024/10/31 10:59:21 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 10:59:33 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 11:00:15 127.0.0.1] End Data Convert
+[2024/10/31 11:15:45 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 11:15:56 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 11:16:01 127.0.0.1] End Data Convert
+[2024/10/31 11:35:59 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 11:36:10 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 11:36:14 127.0.0.1] End Data Convert
+[2024/10/31 12:32:04 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 12:32:16 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 12:32:21 127.0.0.1] End Data Convert
+[2024/10/31 12:50:07 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 12:50:18 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 12:50:21 127.0.0.1] End Data Convert
+[2024/10/31 12:53:43 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 12:53:54 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/10/31 12:53:58 127.0.0.1] End Data Convert
+[2024/10/31 12:56:49 127.0.0.1] Get Network TMS Data Start
+[2024/10/31 12:57:00 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/10/31 12:57:05 127.0.0.1] End Data Convert
+[2024/11/04 15:23:25 127.0.0.1] Get Network TMS Data Start
+[2024/11/04 15:23:30 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/04 15:23:54 127.0.0.1] End Data Convert
+[2024/11/05 09:44:54 127.0.0.1] Get Network TMS Data Start
+[2024/11/05 09:44:59 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/05 09:45:31 127.0.0.1] End Data Convert
+[2024/11/07 11:09:45 127.0.0.1] Get Network TMS Data Start
+[2024/11/07 11:09:54 127.0.0.1] Get Network TMS Data (OK=14 WARN=0 POFF=10 ERR=0)
+[2024/11/07 11:10:16 127.0.0.1] End Data Convert
+[2024/11/07 13:23:33 127.0.0.1] Get Network TMS Data Start
+[2024/11/07 13:23:42 127.0.0.1] Get Network TMS Data (OK=14 WARN=0 POFF=10 ERR=0)
+[2024/11/07 13:23:50 127.0.0.1] End Data Convert
+[2024/11/07 14:03:56 127.0.0.1] Get Network TMS Data Start
+[2024/11/07 14:04:06 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/07 14:04:11 127.0.0.1] End Data Convert
+[2024/11/08 10:05:32 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 10:05:41 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 10:06:00 127.0.0.1] End Data Convert
+[2024/11/08 11:05:14 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:05:24 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 11:05:33 127.0.0.1] End Data Convert
+[2024/11/08 11:06:34 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:06:45 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 11:06:48 127.0.0.1] End Data Convert
+[2024/11/08 11:07:07 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:07:15 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 11:07:19 127.0.0.1] End Data Convert
+[2024/11/08 11:18:18 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:18:27 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 11:18:30 127.0.0.1] End Data Convert
+[2024/11/08 11:32:43 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:32:52 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/08 11:32:55 127.0.0.1] End Data Convert
+[2024/11/08 11:55:44 127.0.0.1] Get Network TMS Data Start
+[2024/11/08 11:55:53 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/08 11:55:57 127.0.0.1] End Data Convert
+[2024/11/11 17:05:52 127.0.0.1] Get Network TMS Data Start
+[2024/11/11 17:06:05 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/11 17:06:47 127.0.0.1] End Data Convert
+[2024/11/12 16:03:55 127.0.0.1] Get Network TMS Data Start
+[2024/11/12 16:04:07 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/12 16:04:33 127.0.0.1] End Data Convert
+[2024/11/13 08:55:08 127.0.0.1] Get Network TMS Data Start
+[2024/11/13 08:55:21 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/13 08:55:39 127.0.0.1] End Data Convert
+[2024/11/14 12:11:08 127.0.0.1] Get Network TMS Data Start
+[2024/11/14 12:11:21 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/14 12:11:39 127.0.0.1] End Data Convert
+[2024/11/14 12:13:20 127.0.0.1] Get Network TMS Data Start
+[2024/11/14 12:13:33 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/14 12:13:37 127.0.0.1] End Data Convert
+[2024/11/18 12:05:12 127.0.0.1] Get Network TMS Data Start
+[2024/11/18 12:05:19 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/18 12:05:39 127.0.0.1] End Data Convert
+[2024/11/19 10:10:58 127.0.0.1] Get Network TMS Data Start
+[2024/11/19 10:11:05 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/19 10:11:33 127.0.0.1] End Data Convert
+[2024/11/21 10:23:52 127.0.0.1] Get Network TMS Data Start
+[2024/11/21 10:24:03 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/21 10:24:25 127.0.0.1] End Data Convert
+[2024/11/22 08:12:15 127.0.0.1] Get Network TMS Data Start
+[2024/11/22 08:12:23 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/22 08:12:44 127.0.0.1] End Data Convert
+[2024/11/22 09:00:07 127.0.0.1] Get Network TMS Data Start
+[2024/11/22 09:00:16 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/22 09:00:20 127.0.0.1] End Data Convert
+[2024/11/24 23:59:45 127.0.0.1] Get Network TMS Data Start
+[2024/11/24 23:59:56 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/25 00:00:19 127.0.0.1] End Data Convert
+[2024/11/25 06:22:37 127.0.0.1] Get Network TMS Data Start
+[2024/11/25 06:22:44 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/25 06:23:05 127.0.0.1] End Data Convert
+[2024/11/26 06:30:27 127.0.0.1] Get Network TMS Data Start
+[2024/11/26 06:30:35 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/26 06:31:04 127.0.0.1] End Data Convert
+[2024/11/27 07:55:05 127.0.0.1] Get Network TMS Data Start
+[2024/11/27 07:55:15 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/27 07:55:38 127.0.0.1] End Data Convert
+[2024/11/28 06:01:36 127.0.0.1] Get Network TMS Data Start
+[2024/11/28 06:01:44 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/28 06:02:09 127.0.0.1] End Data Convert
+[2024/11/28 07:39:46 127.0.0.1] Get Network TMS Data Start
+[2024/11/28 07:39:54 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/28 07:39:58 127.0.0.1] End Data Convert
+[2024/11/29 09:00:09 127.0.0.1] Get Network TMS Data Start
+[2024/11/29 09:00:19 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/11/29 09:00:45 127.0.0.1] End Data Convert
+[2024/11/29 09:21:10 127.0.0.1] Get Network TMS Data Start
+[2024/11/29 09:21:19 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/11/29 09:21:24 127.0.0.1] End Data Convert
+[2024/12/02 08:01:24 127.0.0.1] Get Network TMS Data Start
+[2024/12/02 08:01:32 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/02 08:01:58 127.0.0.1] End Data Convert
+[2024/12/02 08:07:42 127.0.0.1] Get Network TMS Data Start
+[2024/12/02 08:07:49 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/02 08:07:51 127.0.0.1] End Data Convert
+[2024/12/02 08:13:17 127.0.0.1] Get Network TMS Data Start
+[2024/12/02 08:13:24 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/02 08:13:28 127.0.0.1] End Data Convert
+[2024/12/03 08:43:05 127.0.0.1] Get Network TMS Data Start
+[2024/12/03 08:43:17 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/03 08:43:43 127.0.0.1] End Data Convert
+[2024/12/03 09:42:01 127.0.0.1] Get Network TMS Data Start
+[2024/12/03 09:42:09 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/03 09:42:13 127.0.0.1] End Data Convert
+[2024/12/03 10:59:27 127.0.0.1] Get Network TMS Data Start
+[2024/12/03 10:59:34 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/03 10:59:38 127.0.0.1] End Data Convert
+[2024/12/04 07:23:31 127.0.0.1] Get Network TMS Data Start
+[2024/12/04 07:23:39 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/04 07:23:55 127.0.0.1] End Data Convert
+[2024/12/04 07:31:16 127.0.0.1] Get Network TMS Data Start
+[2024/12/04 07:31:25 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/04 07:31:29 127.0.0.1] End Data Convert
+[2024/12/04 07:43:20 127.0.0.1] Get Network TMS Data Start
+[2024/12/04 07:43:28 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/04 07:43:32 127.0.0.1] End Data Convert
+[2024/12/05 08:11:25 127.0.0.1] Get Network TMS Data Start
+[2024/12/05 08:11:34 127.0.0.1] Get Network TMS Data (OK=19 WARN=0 POFF=5 ERR=0)
+[2024/12/05 08:11:49 127.0.0.1] End Data Convert
+[2024/12/05 09:00:34 127.0.0.1] Get Network TMS Data Start
+[2024/12/05 09:00:43 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=4 ERR=0)
+[2024/12/05 09:00:47 127.0.0.1] End Data Convert
+[2024/12/05 09:30:12 127.0.0.1] Get Network TMS Data Start
+[2024/12/05 09:30:21 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/05 09:30:26 127.0.0.1] End Data Convert
+[2024/12/05 09:51:25 127.0.0.1] Get Network TMS Data Start
+[2024/12/05 09:51:35 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/05 09:51:38 127.0.0.1] End Data Convert
+[2024/12/05 09:54:08 127.0.0.1] Get Network TMS Data Start
+[2024/12/05 09:54:17 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/05 09:54:21 127.0.0.1] End Data Convert
+[2024/12/06 06:09:35 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 06:09:43 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 06:10:00 127.0.0.1] End Data Convert
+[2024/12/06 06:15:20 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 06:15:29 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 06:15:33 127.0.0.1] End Data Convert
+[2024/12/06 07:32:03 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:32:13 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:32:17 127.0.0.1] End Data Convert
+[2024/12/06 07:39:23 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:39:33 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:39:38 127.0.0.1] End Data Convert
+[2024/12/06 07:39:49 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:39:59 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:40:03 127.0.0.1] End Data Convert
+[2024/12/06 07:40:36 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:40:44 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:40:47 127.0.0.1] End Data Convert
+[2024/12/06 07:40:59 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:41:07 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:41:10 127.0.0.1] End Data Convert
+[2024/12/06 07:41:43 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:41:53 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:41:56 127.0.0.1] End Data Convert
+[2024/12/06 07:42:55 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:43:05 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:43:08 127.0.0.1] End Data Convert
+[2024/12/06 07:46:21 127.0.0.1] Get Network TMS Data Start
+[2024/12/06 07:46:31 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/06 07:46:34 127.0.0.1] End Data Convert
+[2024/12/09 07:48:42 127.0.0.1] Get Network TMS Data Start
+[2024/12/09 07:48:49 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=4 ERR=0)
+[2024/12/09 07:49:08 127.0.0.1] End Data Convert
+[2024/12/09 08:10:50 127.0.0.1] Get Network TMS Data Start
+[2024/12/09 08:10:57 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/09 08:11:02 127.0.0.1] End Data Convert
+[2024/12/10 06:08:35 127.0.0.1] Get Network TMS Data Start
+[2024/12/10 06:08:41 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/10 06:09:01 127.0.0.1] End Data Convert
+[2024/12/11 05:59:44 127.0.0.1] Get Network TMS Data Start
+[2024/12/11 05:59:55 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/11 06:00:20 127.0.0.1] End Data Convert
+[2024/12/12 06:10:41 127.0.0.1] Get Network TMS Data Start
+[2024/12/12 06:10:50 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/12 06:11:10 127.0.0.1] End Data Convert
+[2024/12/12 08:03:58 127.0.0.1] Get Network TMS Data Start
+[2024/12/12 08:04:06 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/12 08:04:11 127.0.0.1] End Data Convert
+[2024/12/13 06:47:25 127.0.0.1] Get Network TMS Data Start
+[2024/12/13 06:47:34 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/13 06:47:52 127.0.0.1] End Data Convert
+[2024/12/16 06:08:42 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 06:08:47 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 06:09:07 127.0.0.1] End Data Convert
+[2024/12/16 07:37:46 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 07:37:50 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 07:37:55 127.0.0.1] End Data Convert
+[2024/12/16 07:43:05 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 07:43:11 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 07:43:14 127.0.0.1] End Data Convert
+[2024/12/16 07:45:11 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 07:45:15 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 07:45:18 127.0.0.1] End Data Convert
+[2024/12/16 08:01:30 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 08:01:35 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 08:01:38 127.0.0.1] End Data Convert
+[2024/12/16 08:35:23 127.0.0.1] Get Network TMS Data Start
+[2024/12/16 08:35:28 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2024/12/16 08:35:32 127.0.0.1] End Data Convert
+[2024/12/17 07:42:46 127.0.0.1] Get Network TMS Data Start
+[2024/12/17 07:42:53 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/17 07:43:14 127.0.0.1] End Data Convert
+[2024/12/18 07:57:03 127.0.0.1] Get Network TMS Data Start
+[2024/12/18 07:57:09 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/18 07:57:30 127.0.0.1] End Data Convert
+[2024/12/18 10:25:41 127.0.0.1] Get Network TMS Data Start
+[2024/12/18 10:25:45 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2024/12/18 10:25:52 127.0.0.1] End Data Convert
+[2025/01/07 10:34:43 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 10:41:33 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 10:46:20 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 10:52:52 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 12:47:00 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 12:50:35 127.0.0.1] Set Loom Clock Start
+[2025/01/07 12:57:45 127.0.0.1] Get Network TMS Data Start
+[2025/01/07 13:00:03 127.0.0.1] Set Loom Clock Start
+[2025/01/07 13:23:03 127.0.0.1] Set Loom Clock Start
+[2025/01/08 08:54:02 127.0.0.1] Get Network TMS Data Start
+[2025/01/08 13:20:28 127.0.0.1] Get Network TMS Data Start
+[2025/01/08 13:22:11 127.0.0.1] Get Network TMS Data Start
+[2025/01/08 13:25:43 127.0.0.1] Get Network TMS Data Start
+[2025/01/08 13:25:50 127.0.0.1] Get Network TMS Data (OK=19 WARN=0 POFF=2 ERR=0)
+[2025/01/08 13:25:55 127.0.0.1] End Data Convert
+[2025/01/08 15:54:14 127.0.0.1] Get Network TMS Data Start
+[2025/01/08 15:54:24 127.0.0.1] Get Network TMS Data (OK=19 WARN=0 POFF=2 ERR=0)
+[2025/01/08 15:54:27 127.0.0.1] End Data Convert
+[2025/01/09 10:40:21 127.0.0.1] Get Network TMS Data Start
+[2025/01/09 10:40:30 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/09 10:40:37 127.0.0.1] End Data Convert
+[2025/01/10 08:56:56 127.0.0.1] Get Network TMS Data Start
+[2025/01/10 08:57:06 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/10 08:57:12 127.0.0.1] End Data Convert
+[2025/01/14 08:17:50 127.0.0.1] Get Network TMS Data Start
+[2025/01/14 08:17:55 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/14 08:18:02 127.0.0.1] End Data Convert
+[2025/01/15 13:33:45 127.0.0.1] Get Network TMS Data Start
+[2025/01/15 13:33:52 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/15 13:34:00 127.0.0.1] End Data Convert
+[2025/01/16 06:34:53 127.0.0.1] Get Network TMS Data Start
+[2025/01/16 06:35:00 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/16 06:35:07 127.0.0.1] End Data Convert
+[2025/01/17 13:56:52 127.0.0.1] Get Network TMS Data Start
+[2025/01/17 13:57:02 127.0.0.1] Get Network TMS Data (OK=19 WARN=0 POFF=5 ERR=0)
+[2025/01/17 13:57:10 127.0.0.1] End Data Convert
+[2025/01/20 14:56:24 127.0.0.1] Get Network TMS Data Start
+[2025/01/20 14:56:30 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/01/20 14:56:44 127.0.0.1] End Data Convert
+[2025/01/20 15:13:19 127.0.0.1] Get Network TMS Data Start
+[2025/01/20 15:13:25 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/01/20 15:13:31 127.0.0.1] End Data Convert
+[2025/01/21 09:29:38 127.0.0.1] Get Network TMS Data Start
+[2025/01/21 09:29:45 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/21 09:29:54 127.0.0.1] End Data Convert
+[2025/01/22 06:03:41 127.0.0.1] Get Network TMS Data Start
+[2025/01/22 06:03:49 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/22 06:03:58 127.0.0.1] End Data Convert
+[2025/01/23 09:23:06 127.0.0.1] Get Network TMS Data Start
+[2025/01/23 09:23:14 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/23 09:23:24 127.0.0.1] End Data Convert
+[2025/01/23 11:24:03 127.0.0.1] Get Network TMS Data Start
+[2025/01/23 11:24:11 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/01/23 11:24:15 127.0.0.1] End Data Convert
+[2025/01/23 12:15:29 127.0.0.1] Get Network TMS Data Start
+[2025/01/23 12:15:37 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/23 12:15:40 127.0.0.1] End Data Convert
+[2025/01/24 06:17:07 127.0.0.1] Get Network TMS Data Start
+[2025/01/24 06:17:14 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/24 06:17:23 127.0.0.1] End Data Convert
+[2025/01/27 06:12:31 127.0.0.1] Get Network TMS Data Start
+[2025/01/27 06:12:36 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/27 06:12:47 127.0.0.1] End Data Convert
+[2025/01/28 06:05:39 127.0.0.1] Get Network TMS Data Start
+[2025/01/28 06:05:45 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/28 06:05:57 127.0.0.1] End Data Convert
+[2025/01/29 06:44:23 127.0.0.1] Get Network TMS Data Start
+[2025/01/29 06:44:33 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/29 06:44:45 127.0.0.1] End Data Convert
+[2025/01/30 06:04:59 127.0.0.1] Get Network TMS Data Start
+[2025/01/30 06:05:09 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/01/30 06:05:21 127.0.0.1] End Data Convert
+[2025/01/31 06:34:00 127.0.0.1] Get Network TMS Data Start
+[2025/01/31 06:34:07 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/01/31 06:34:20 127.0.0.1] End Data Convert
+[2025/02/02 08:17:24 127.0.0.1] Get Network TMS Data Start
+[2025/02/02 08:17:28 127.0.0.1] Get Network TMS Data (OK=0 WARN=0 POFF=24 ERR=0)
+[2025/02/03 06:00:27 127.0.0.1] Get Network TMS Data Start
+[2025/02/03 06:00:33 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/02/03 06:00:54 127.0.0.1] End Data Convert
+[2025/02/03 07:44:03 127.0.0.1] Get Network TMS Data Start
+[2025/02/03 07:44:10 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/03 07:44:20 127.0.0.1] End Data Convert
+[2025/02/04 06:21:16 127.0.0.1] Get Network TMS Data Start
+[2025/02/04 06:21:24 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/04 06:21:39 127.0.0.1] End Data Convert
+[2025/02/05 06:02:51 127.0.0.1] Get Network TMS Data Start
+[2025/02/05 06:03:00 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/02/05 06:03:18 127.0.0.1] End Data Convert
+[2025/02/06 05:22:37 127.0.0.1] Get Network TMS Data Start
+[2025/02/06 05:22:44 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/06 05:22:54 127.0.0.1] End Data Convert
+[2025/02/06 05:42:23 127.0.0.1] Get Network TMS Data Start
+[2025/02/06 05:42:31 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/06 05:42:34 127.0.0.1] End Data Convert
+[2025/02/06 05:44:04 127.0.0.1] Get Network TMS Data Start
+[2025/02/06 05:44:11 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/06 05:44:14 127.0.0.1] End Data Convert
+[2025/02/06 05:44:50 127.0.0.1] Get Network TMS Data Start
+[2025/02/06 05:44:57 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/06 05:44:59 127.0.0.1] End Data Convert
+[2025/02/07 05:59:57 127.0.0.1] Get Network TMS Data Start
+[2025/02/07 06:00:05 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/07 06:00:14 127.0.0.1] End Data Convert
+[2025/02/10 06:05:49 127.0.0.1] Get Network TMS Data Start
+[2025/02/10 06:05:55 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/10 06:06:05 127.0.0.1] End Data Convert
+[2025/02/11 06:39:58 127.0.0.1] Get Network TMS Data Start
+[2025/02/11 06:40:04 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/11 06:40:19 127.0.0.1] End Data Convert
+[2025/02/12 05:57:57 127.0.0.1] Get Network TMS Data Start
+[2025/02/12 05:58:05 127.0.0.1] Get Network TMS Data (OK=21 WARN=1 POFF=2 ERR=0)
+[2025/02/12 05:58:15 127.0.0.1] End Data Convert
+[2025/02/18 10:49:21 127.0.0.1] Get Network TMS Data Start
+[2025/02/18 10:49:28 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/18 10:49:46 127.0.0.1] End Data Convert
+[2025/02/18 14:25:22 127.0.0.1] Get Network TMS Data Start
+[2025/02/18 14:25:28 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/18 14:25:33 127.0.0.1] End Data Convert
+[2025/02/18 16:02:11 127.0.0.1] Get Network TMS Data Start
+[2025/02/18 16:02:19 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/18 16:02:22 127.0.0.1] End Data Convert
+[2025/02/18 16:11:00 127.0.0.1] Get Network TMS Data Start
+[2025/02/18 16:11:06 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/18 16:11:09 127.0.0.1] End Data Convert
+[2025/02/18 16:25:03 127.0.0.1] Get Network TMS Data Start
+[2025/02/18 16:25:11 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/18 16:25:14 127.0.0.1] End Data Convert
+[2025/02/19 06:10:58 127.0.0.1] Get Network TMS Data Start
+[2025/02/19 06:11:09 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/19 06:11:23 127.0.0.1] End Data Convert
+[2025/02/19 11:18:17 127.0.0.1] Get Network TMS Data Start
+[2025/02/19 11:18:23 127.0.0.1] Get Network TMS Data (OK=21 WARN=1 POFF=2 ERR=0)
+[2025/02/19 11:18:27 127.0.0.1] End Data Convert
+[2025/02/21 12:34:47 127.0.0.1] Get Network TMS Data Start
+[2025/02/21 12:34:55 127.0.0.1] Get Network TMS Data (OK=17 WARN=1 POFF=6 ERR=0)
+[2025/02/21 12:35:09 127.0.0.1] End Data Convert
+[2025/02/21 14:02:38 127.0.0.1] Get Network TMS Data Start
+[2025/02/21 14:02:45 127.0.0.1] Get Network TMS Data (OK=21 WARN=1 POFF=2 ERR=0)
+[2025/02/21 14:02:48 127.0.0.1] End Data Convert
+[2025/02/24 08:36:37 127.0.0.1] Get Network TMS Data Start
+[2025/02/24 08:36:41 127.0.0.1] Get Network TMS Data (OK=0 WARN=0 POFF=24 ERR=0)
+[2025/02/25 08:48:33 127.0.0.1] Get Network TMS Data Start
+[2025/02/25 08:48:37 127.0.0.1] Get Network TMS Data (OK=0 WARN=0 POFF=24 ERR=0)
+[2025/02/25 16:12:38 127.0.0.1] Get Network TMS Data Start
+[2025/02/25 16:12:44 127.0.0.1] Get Network TMS Data (OK=20 WARN=1 POFF=3 ERR=0)
+[2025/02/25 16:13:00 127.0.0.1] End Data Convert
+[2025/02/26 08:56:02 127.0.0.1] Get Network TMS Data Start
+[2025/02/26 08:56:10 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/26 08:56:35 127.0.0.1] End Data Convert
+[2025/02/28 10:29:30 127.0.0.1] Get Network TMS Data Start
+[2025/02/28 10:29:37 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/02/28 10:29:56 127.0.0.1] End Data Convert
+[2025/03/05 06:05:35 127.0.0.1] Get Network TMS Data Start
+[2025/03/05 06:05:43 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/05 06:06:07 127.0.0.1] End Data Convert
+[2025/03/06 06:04:10 127.0.0.1] Get Network TMS Data Start
+[2025/03/06 06:04:18 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/06 06:04:32 127.0.0.1] End Data Convert
+[2025/03/07 06:07:53 127.0.0.1] Get Network TMS Data Start
+[2025/03/07 06:08:02 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/07 06:08:49 127.0.0.1] End Data Convert
+[2025/03/10 06:11:29 127.0.0.1] Get Network TMS Data Start
+[2025/03/10 06:11:35 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/10 06:11:55 127.0.0.1] End Data Convert
+[2025/03/11 06:11:32 127.0.0.1] Get Network TMS Data Start
+[2025/03/11 06:11:39 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/11 06:11:57 127.0.0.1] End Data Convert
+[2025/03/12 12:30:35 127.0.0.1] Get Network TMS Data Start
+[2025/03/12 12:30:42 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/12 12:30:57 127.0.0.1] End Data Convert
+[2025/03/13 12:45:56 127.0.0.1] Get Network TMS Data Start
+[2025/03/13 12:46:05 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/13 12:46:29 127.0.0.1] End Data Convert
+[2025/03/14 05:48:44 127.0.0.1] Get Network TMS Data Start
+[2025/03/14 05:48:50 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/14 05:49:10 127.0.0.1] End Data Convert
+[2025/03/17 06:56:41 127.0.0.1] Get Network TMS Data Start
+[2025/03/17 06:56:47 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/17 06:57:10 127.0.0.1] End Data Convert
+[2025/03/20 07:42:17 127.0.0.1] Get Network TMS Data Start
+[2025/03/20 07:42:23 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/20 07:42:48 127.0.0.1] End Data Convert
+[2025/03/21 12:41:41 127.0.0.1] Get Network TMS Data Start
+[2025/03/21 12:41:48 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/21 12:42:12 127.0.0.1] End Data Convert
+[2025/03/24 06:26:39 127.0.0.1] Get Network TMS Data Start
+[2025/03/24 06:26:45 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/24 06:27:05 127.0.0.1] End Data Convert
+[2025/03/25 06:21:09 127.0.0.1] Get Network TMS Data Start
+[2025/03/25 06:21:15 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/03/25 06:21:40 127.0.0.1] End Data Convert
+[2025/03/25 13:59:48 127.0.0.1] Get Network TMS Data Start
+[2025/03/25 13:59:57 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/25 14:00:16 127.0.0.1] End Data Convert
+[2025/03/26 06:57:46 127.0.0.1] Get Network TMS Data Start
+[2025/03/26 06:57:55 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/26 06:58:23 127.0.0.1] End Data Convert
+[2025/03/27 08:25:07 127.0.0.1] Get Network TMS Data Start
+[2025/03/27 08:25:15 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/27 08:25:44 127.0.0.1] End Data Convert
+[2025/03/28 06:20:41 127.0.0.1] Get Network TMS Data Start
+[2025/03/28 06:20:47 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/28 06:21:09 127.0.0.1] End Data Convert
+[2025/03/31 06:42:30 127.0.0.1] Get Network TMS Data Start
+[2025/03/31 06:42:37 127.0.0.1] Get Network TMS Data (OK=20 WARN=0 POFF=4 ERR=0)
+[2025/03/31 06:43:06 127.0.0.1] End Data Convert
+[2025/03/31 08:34:53 127.0.0.1] Get Network TMS Data Start
+[2025/03/31 08:34:58 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/03/31 08:35:07 127.0.0.1] End Data Convert
+[2025/04/01 06:09:43 127.0.0.1] Get Network TMS Data Start
+[2025/04/01 06:09:52 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/01 06:10:13 127.0.0.1] End Data Convert
+[2025/04/02 06:25:23 127.0.0.1] Get Network TMS Data Start
+[2025/04/02 06:25:31 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/02 06:25:57 127.0.0.1] End Data Convert
+[2025/04/03 06:38:17 127.0.0.1] Get Network TMS Data Start
+[2025/04/03 06:38:25 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/03 06:38:47 127.0.0.1] End Data Convert
+[2025/04/08 06:42:41 127.0.0.1] Get Network TMS Data Start
+[2025/04/08 06:42:46 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/08 06:43:09 127.0.0.1] End Data Convert
+[2025/04/09 06:29:26 127.0.0.1] Get Network TMS Data Start
+[2025/04/09 06:29:34 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/09 06:29:49 127.0.0.1] End Data Convert
+[2025/04/10 06:46:51 127.0.0.1] Get Network TMS Data Start
+[2025/04/10 06:47:01 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/04/10 06:47:55 127.0.0.1] End Data Convert
+[2025/04/11 12:19:58 127.0.0.1] Get Network TMS Data Start
+[2025/04/11 12:20:05 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=3 ERR=0)
+[2025/04/11 12:20:24 127.0.0.1] End Data Convert
+[2025/04/13 10:17:02 127.0.0.1] Get Network TMS Data Start
+[2025/04/13 10:17:06 127.0.0.1] Get Network TMS Data (OK=0 WARN=0 POFF=24 ERR=0)
+[2025/04/14 06:19:57 127.0.0.1] Get Network TMS Data Start
+[2025/04/14 06:20:02 127.0.0.1] Get Network TMS Data (OK=0 WARN=0 POFF=24 ERR=0)
+[2025/04/14 13:32:32 127.0.0.1] Get Network TMS Data Start
+[2025/04/14 13:32:37 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/14 13:32:58 127.0.0.1] End Data Convert
+[2025/04/15 06:33:43 127.0.0.1] Get Network TMS Data Start
+[2025/04/15 06:33:49 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/15 06:34:09 127.0.0.1] End Data Convert
+[2025/04/16 15:53:17 127.0.0.1] Get Network TMS Data Start
+[2025/04/16 15:53:24 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/16 15:53:46 127.0.0.1] End Data Convert
+[2025/04/17 16:17:25 127.0.0.1] Get Network TMS Data Start
+[2025/04/17 16:17:32 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=0)
+[2025/04/17 16:17:52 127.0.0.1] End Data Convert
+[2025/04/24 06:19:59 127.0.0.1] Get Network TMS Data Start
+[2025/04/24 06:19:59 127.0.0.1] Get Network TMS Data Start
+[2025/04/24 06:20:06 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=2 ERR=2)
+[2025/04/24 06:20:40 127.0.0.1] End Data Convert
+[2025/04/24 06:21:47 127.0.0.1] Get Network TMS Data Start
+[2025/04/24 06:21:54 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=2 ERR=0)
+[2025/04/24 06:21:59 127.0.0.1] End Data Convert
+[2025/04/25 13:14:51 127.0.0.1] Get Network TMS Data Start
+[2025/04/25 13:14:59 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/04/25 13:15:30 127.0.0.1] End Data Convert
+[2025/04/28 15:17:57 127.0.0.1] Get Network TMS Data Start
+[2025/04/28 15:18:02 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/04/28 15:18:32 127.0.0.1] End Data Convert
+[2025/04/29 17:02:42 127.0.0.1] Get Network TMS Data Start
+[2025/04/29 17:02:50 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/04/29 17:03:15 127.0.0.1] End Data Convert
+[2025/04/30 06:24:51 127.0.0.1] Get Network TMS Data Start
+[2025/04/30 06:24:59 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/04/30 06:25:27 127.0.0.1] End Data Convert
+[2025/05/02 08:04:21 127.0.0.1] Get Network TMS Data Start
+[2025/05/02 08:04:32 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/02 08:04:56 127.0.0.1] End Data Convert
+[2025/05/06 17:48:26 127.0.0.1] Get Network TMS Data Start
+[2025/05/06 17:48:33 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=2 ERR=0)
+[2025/05/06 17:48:53 127.0.0.1] End Data Convert
+[2025/05/08 05:52:09 127.0.0.1] Get Network TMS Data Start
+[2025/05/08 05:52:16 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/08 05:52:37 127.0.0.1] End Data Convert
+[2025/05/13 09:43:52 127.0.0.1] Get Network TMS Data Start
+[2025/05/13 09:43:59 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/05/13 09:44:34 127.0.0.1] End Data Convert
+[2025/05/13 15:06:56 127.0.0.1] Get Network TMS Data Start
+[2025/05/13 15:07:03 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/13 15:07:08 127.0.0.1] End Data Convert
+[2025/05/14 08:26:27 127.0.0.1] Get Network TMS Data Start
+[2025/05/14 08:26:36 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/14 08:27:08 127.0.0.1] End Data Convert
+[2025/05/20 11:48:56 127.0.0.1] Get Network TMS Data Start
+[2025/05/20 11:49:02 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/20 11:49:25 127.0.0.1] End Data Convert
+[2025/05/28 12:17:39 127.0.0.1] Get Network TMS Data Start
+[2025/05/28 12:17:46 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/05/28 12:18:11 127.0.0.1] End Data Convert
+[2025/05/29 09:35:03 127.0.0.1] Get Network TMS Data Start
+[2025/05/29 09:35:11 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=3 ERR=1)
+[2025/05/29 09:35:36 127.0.0.1] End Data Convert
+[2025/05/29 09:52:57 127.0.0.1] Get Network TMS Data Start
+[2025/05/29 09:53:04 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/05/29 09:53:08 127.0.0.1] End Data Convert
+[2025/05/29 09:53:19 127.0.0.1] Get Network TMS Data Start
+[2025/05/29 09:53:26 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/05/29 09:53:30 127.0.0.1] End Data Convert
+[2025/05/29 12:52:45 127.0.0.1] Get Network TMS Data Start
+[2025/05/29 12:52:52 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/05/29 12:53:13 127.0.0.1] End Data Convert
+[2025/05/29 14:16:19 127.0.0.1] Get Network TMS Data Start
+[2025/05/29 14:16:27 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/05/29 14:16:45 127.0.0.1] End Data Convert
+[2025/06/02 07:45:21 127.0.0.1] Get Network TMS Data Start
+[2025/06/02 07:45:27 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/06/02 07:45:54 127.0.0.1] End Data Convert
+[2025/06/09 09:52:45 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 09:52:51 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 09:53:16 127.0.0.1] End Data Convert
+[2025/06/09 10:03:00 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 10:03:07 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 10:03:11 127.0.0.1] End Data Convert
+[2025/06/09 10:34:48 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 10:34:55 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 10:34:59 127.0.0.1] End Data Convert
+[2025/06/09 10:49:13 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 10:49:20 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 10:49:23 127.0.0.1] End Data Convert
+[2025/06/09 11:08:08 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 11:08:15 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 11:08:19 127.0.0.1] End Data Convert
+[2025/06/09 11:19:12 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 11:19:18 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 11:19:22 127.0.0.1] End Data Convert
+[2025/06/09 12:46:50 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 12:46:56 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 12:47:12 127.0.0.1] End Data Convert
+[2025/06/09 13:34:33 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 13:34:39 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/09 13:34:43 127.0.0.1] End Data Convert
+[2025/06/09 14:48:43 127.0.0.1] Get Network TMS Data Start
+[2025/06/09 14:48:49 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/06/09 14:48:55 127.0.0.1] End Data Convert
+[2025/06/10 07:50:28 127.0.0.1] Get Network TMS Data Start
+[2025/06/10 07:50:36 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/06/10 07:50:55 127.0.0.1] End Data Convert
+[2025/06/13 12:35:14 127.0.0.1] Get Network TMS Data Start
+[2025/06/13 12:35:26 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/13 12:36:03 127.0.0.1] End Data Convert
+[2025/06/13 15:19:45 127.0.0.1] Get Network TMS Data Start
+[2025/06/13 15:19:57 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/13 15:20:26 127.0.0.1] End Data Convert
+[2025/06/13 16:07:26 127.0.0.1] Get Network TMS Data Start
+[2025/06/13 16:07:37 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/13 16:07:42 127.0.0.1] End Data Convert
+[2025/06/16 09:42:14 127.0.0.1] Get Network TMS Data Start
+[2025/06/16 09:42:21 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/16 09:42:45 127.0.0.1] End Data Convert
+[2025/06/16 13:48:29 127.0.0.1] Get Network TMS Data Start
+[2025/06/16 13:48:35 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/16 13:48:54 127.0.0.1] End Data Convert
+[2025/06/16 17:18:37 127.0.0.1] Get Network TMS Data Start
+[2025/06/16 17:18:45 127.0.0.1] Get Network TMS Data (OK=21 WARN=0 POFF=4 ERR=1)
+[2025/06/16 17:18:50 127.0.0.1] End Data Convert
+[2025/06/17 09:41:09 127.0.0.1] Get Network TMS Data Start
+[2025/06/17 09:41:15 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/17 09:41:24 127.0.0.1] End Data Convert
+[2025/06/18 08:03:48 127.0.0.1] Get Network TMS Data Start
+[2025/06/18 08:03:58 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/18 08:04:24 127.0.0.1] End Data Convert
+[2025/06/20 08:26:49 127.0.0.1] Get Network TMS Data Start
+[2025/06/20 08:26:59 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/20 08:27:24 127.0.0.1] End Data Convert
+[2025/06/23 08:01:37 127.0.0.1] Get Network TMS Data Start
+[2025/06/23 08:01:44 127.0.0.1] Get Network TMS Data (OK=22 WARN=0 POFF=3 ERR=1)
+[2025/06/23 08:02:09 127.0.0.1] End Data Convert
+[2025/06/23 12:38:36 127.0.0.1] Get Network TMS Data Start
+[2025/06/23 12:38:42 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=1 ERR=2)
+[2025/06/23 12:38:51 127.0.0.1] End Data Convert
+[2025/06/24 08:06:43 127.0.0.1] Get Network TMS Data Start
+[2025/06/24 08:06:51 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/24 08:07:20 127.0.0.1] End Data Convert
+[2025/06/25 17:00:20 127.0.0.1] Get Network TMS Data Start
+[2025/06/25 17:00:30 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/25 17:00:56 127.0.0.1] End Data Convert
+[2025/06/25 18:01:50 127.0.0.1] Get Network TMS Data Start
+[2025/06/25 18:02:00 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/25 18:02:04 127.0.0.1] End Data Convert
+[2025/06/27 09:19:35 127.0.0.1] Get Network TMS Data Start
+[2025/06/27 09:19:43 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)
+[2025/06/27 09:20:08 127.0.0.1] End Data Convert
+[2025/07/01 17:22:24 127.0.0.1] Get Network TMS Data Start
+[2025/07/01 17:22:32 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/07/01 17:23:00 127.0.0.1] End Data Convert
+[2025/07/03 16:29:41 127.0.0.1] Get Network TMS Data Start
+[2025/07/03 16:29:50 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/07/03 16:30:10 127.0.0.1] End Data Convert
+[2025/07/04 07:48:13 127.0.0.1] Get Network TMS Data Start
+[2025/07/04 07:48:24 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/07/04 07:48:38 127.0.0.1] End Data Convert
+[2025/07/08 07:31:25 127.0.0.1] Get Network TMS Data Start
+[2025/07/08 07:31:35 127.0.0.1] Get Network TMS Data (OK=24 WARN=0 POFF=1 ERR=1)
+[2025/07/08 07:31:58 127.0.0.1] End Data Convert
+[2025/07/17 15:17:56 127.0.0.1] Get Network TMS Data Start
+[2025/07/17 15:18:05 127.0.0.1] Get Network TMS Data (OK=23 WARN=0 POFF=2 ERR=1)

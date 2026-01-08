@@ -1,0 +1,34 @@
+<HTML>
+<BODY bgcolor=#C7C4E2>
+<center>
+<table border=1 cellPadding=6 width=630>
+<tr align=center bgcolor=#FDB913><td><font size=+2 color=white><B>TMS Debug Menu</B></font></td></tr>
+<tr align=center bgcolor=#FFF2DD><td>
+
+<table width=530><tr><td><NOBR>
+<BR>
+<center><A HREF="../"><font size=+1><B>&lt; TMS Main Menu &gt;</B></font></A><BR></center>
+<BR>
+<A HREF="../check/"><font size=+1><B>TMS Check Menu</B></font></A><BR>
+<BR>
+<A HREF="exec.cgi"><font size=+1><B>Exec debug command</B></font></A> (Check C:\TMDATA\xlsdata & Apache2\conf,logs)<BR>
+<BR>
+<font size=+1><B>Get Loom Log (for TMS) data</B></font><BR>
+&nbsp;&nbsp;&nbsp;/cgi-bin/ext.cgi?func=tms_log_request<BR>
+<BR>
+<font size=+1><B>Get Loom TMS data</B></font><BR>
+&nbsp;&nbsp;&nbsp;/cgi-bin/ext.cgi?func=tms_get_monitor_data&data1=current&data2=monitor&data3=shift&data4=history<BR>
+<BR>
+<font size=+1><B>Set Loom Clock</B></font><BR>
+&nbsp;&nbsp;&nbsp;/cgi-bin/ext.cgi?func=tms_set_date&data=yyyy+mm+dd+hh+mm+ss<BR>
+<BR>
+<font size=+1><B>Set Loom Name</B></font><BR>
+&nbsp;&nbsp;&nbsp;/cgi-bin/ext.cgi?func=tms_set_mac_name&data=loom_name<BR>
+<BR>
+<NOBR></td></tr></table>
+
+</td></tr>
+</table>
+</center>
+</BODY>
+</HTML>
